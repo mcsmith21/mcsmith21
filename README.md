@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analytics, data engineering, data science, Kaggle competitions, Python, SQL, Tableau, predictive analytics, solving problems, learning new skills
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me: melaniec.smith@hotmail.com
+- 📫 How to reach me: melaniec.smith@hotmail.com, msmith@wellvana.com
 
 <!---
 mcsmith21/mcsmith21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
